@@ -43,6 +43,8 @@ The dataset was initially retrieved from Kaggle from a <a href="https://www.kagg
 
 Final Accuracy = 58.33%, Validation Accuracy = 54.99%
 
+<img src="https://github.com/Akash0420/SoundNation/blob/main/media/model_training_results.JPG">
+
 ## Group Members
 * Akash Menon
 * Rohit Ojha
