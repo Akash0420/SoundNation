@@ -27,10 +27,6 @@ psycopg2-binary==2.8.6
 whitenoise==5.2.0
 ```
 
-### Demonstration
-
-Web app is already deployed on Heroku: https://curious-beignet-507277.netlify.app/
-
 ## Built With
 
 * HTML/CSS - Frontend styling and web page design
