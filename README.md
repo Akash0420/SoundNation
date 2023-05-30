@@ -39,10 +39,6 @@ whitenoise==5.2.0
 
 The dataset was initially retrieved from Kaggle from a <a href="https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data">research prediction competiton</a> titled "Challenges in Representation Learning: Facial Expression Recognition Challenge." A <a href="https://drive.google.com/drive/folders/1bCFKTkmItIZl73YNUq5QXppLpIdmTgUv">direct link</a> to the dataset is also provided. The data consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centered and occupies about the same amount of space in each image. Even though there are 7 labelled classes of expressions, we only decided to utilize the 4 most common ones.
 
-### Training Results
-
-Final Accuracy = 58.33%, Validation Accuracy = 54.99%
-
 ## Group Members
 * Akash Menon
 * Rohit Ojha
