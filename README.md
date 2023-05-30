@@ -13,7 +13,7 @@ python manage.py runserver
 
 ### Prerequisites
 
-See requirements.txt. Note that most of it isn't needed to run locally, but for hosting on Heroku.
+See requirements.txt.
 
 ```
 tensorflow-cpu
