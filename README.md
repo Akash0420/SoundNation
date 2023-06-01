@@ -27,7 +27,7 @@ psycopg2-binary==2.8.6
 whitenoise==5.2.0
 ```
 
-## Built With
+## Tech Stack
 
 * HTML/CSS - Frontend styling and web page design
 * Javascript - Frontend music player functions
